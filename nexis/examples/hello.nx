@@ -1,0 +1,5 @@
+set x = 5 + 3
+
+system.out(x)
+
+system.out("Hello Nexis")

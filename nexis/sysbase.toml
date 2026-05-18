@@ -1,0 +1,8 @@
+[project]
+name = "nexis"
+
+[compiler]
+backend = "rust"
+
+[runtime]
+memory = true
